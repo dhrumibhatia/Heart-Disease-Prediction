@@ -45,8 +45,8 @@ Ultimately, Logistic Regression was selected as the best-performing model for th
 
 ## Future Work:
 
-## Model Deployment (Optional):
-## Deployment Platform:
+## Model Deployment:
+### Deployment Platform:
 
 Consider using a suitable platform like Flask, Streamlit, Gradio or Heroku to deploy the model as a web application.
 Create a user-friendly interface for inputting patient data and receiving predictions.

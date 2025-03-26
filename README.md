@@ -1,5 +1,11 @@
 # Heart Disease Prediction 
 
+## Streamlit App
+
+You can access the deployed Streamlit app using the link below:
+
+[Heart Disease Prediction App](https://heart-disease-prediction-str.streamlit.app/)
+
 ## Project Goal
 
 The primary objective of this project is to develop a robust machine learning model capable of accurately predicting the likelihood of heart disease in individuals based on a given set of medical parameters. This model will aid healthcare professionals in early diagnosis, risk assessment, and preventive measures.
